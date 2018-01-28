@@ -1,0 +1,121 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="singlebatchsoaps.com" resolutions="1x" timestamp="1517178531617">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="468797305" ref="custom:products-coming:index:contact-us:shop:soap-faqs:about-us"/>
+    <file name="custom.css" crc="157114249" ref="custom"/>
+    <file name="products-coming.css" crc="157114249" ref="products-coming"/>
+    <file name="index.css" crc="3926927539" ref="index"/>
+    <file name="contact-us.css" crc="157114249" ref="contact-us"/>
+    <file name="shop.css" crc="9257315" ref="shop"/>
+    <file name="soap-faqs.css" crc="157114249" ref="soap-faqs"/>
+    <file name="about-us.css" crc="282506749" ref="about-us"/>
+  </folder>
+  <folder name="assets">
+    <file name="aalogo-transparent.png" crc="113919251" seo="true" mt="1512927008000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="museutils.js" crc="3803043152" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="whatinput.js" crc="86476730" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:shop"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:shop"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="require.js" crc="4157109226" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="webpro.js" crc="242022427" ref="about-us"/>
+    <file name="form_check.php" crc="147359589" ref="about-us"/>
+    <file name="form_throttle.php" crc="93986428" ref="about-us"/>
+    <file name="form_process.php" crc="3851993751" ref="about-us"/>
+    <file name="form-u1177.php" crc="4025461984" ref="about-us"/>
+  </folder>
+  <folder name="images">
+    <file name="u738-4.png" crc="147284043" ref="index"/>
+    <file name="dsc_0037.jpg" crc="233416441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0049.jpg" crc="505327957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u794-4.png" crc="4168846783" ref="index"/>
+    <file name="u806-4.png" crc="74360265" ref="index"/>
+    <file name="dsc_0095.jpg" crc="3910932739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0080.jpg" crc="4284234668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u822-4.png" crc="3948791669" ref="index"/>
+    <file name="u835-4.png" crc="483424735" ref="index"/>
+    <file name="dsc_0046.jpg" crc="413786468" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aalogo-transparent.png" crc="339262775" seo="true" ref="index:shop">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u438-4-a.png" crc="255649969" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u428.png" crc="4191484905" ref="index"/>
+    <file name="u428-a.png" crc="4191484905" ref="index"/>
+    <file name="u420.png" crc="4200506865" ref="index"/>
+    <file name="u420-a.png" crc="4200506865" ref="index"/>
+    <file name="u445.png" crc="424627807" ref="index"/>
+    <file name="u445-a.png" crc="424627807" ref="index"/>
+    <file name="u452.png" crc="4020628477" ref="index"/>
+    <file name="u452-a.png" crc="4020628477" ref="index"/>
+    <file name="u735-4.png" crc="248356650" ref="index"/>
+    <file name="dsc_0071.jpg" crc="355072194" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u838-7.png" crc="363877592" ref="index"/>
+    <file name="u844-4.png" crc="4020541449" ref="index"/>
+    <file name="u841-4.png" crc="112811809" ref="index"/>
+    <file name="u854-4.png" crc="4194919815" ref="index"/>
+    <file name="u851-8.png" crc="466577326" ref="index"/>
+    <file name="u857-4.png" crc="4269266251" ref="index"/>
+    <file name="u860-4.png" crc="496599515" ref="index"/>
+    <file name="u863-4.png" crc="3965075013" ref="index"/>
+    <file name="u866-4.png" crc="4256355602" ref="index"/>
+    <file name="dsc_0076.jpg" crc="430655778" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u869-4.png" crc="3825616757" ref="index"/>
+    <file name="u872-4.png" crc="22340137" ref="index"/>
+    <file name="u875-4.png" crc="209885936" ref="index"/>
+    <file name="u916.png" crc="261558238" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u916-a.png" crc="484038906" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u913.png" crc="215017536" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u913-a.png" crc="131934180" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u923.png" crc="88142723" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u923-a.png" crc="3963958939" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u933.png" crc="4002108504" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u933-a.png" crc="353271101" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u940.png" crc="360521068" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u940-a.png" crc="4138401039" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u178-4.png" crc="4123393045" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u1123-4.png" crc="389388736" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="u187-4.png" crc="4182150059" ref="index:shop:about-us:products-coming:contact-us:soap-faqs:custom"/>
+    <file name="dsc_0008.jpg" crc="4052312049" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u1558.png" crc="255649969" ref="shop"/>
+    <file name="u1558-a.png" crc="255649969" ref="shop"/>
+    <file name="u1543-4-a.png" crc="4191484905" ref="shop"/>
+    <file name="u1531.png" crc="4200506865" ref="shop"/>
+    <file name="u1531-a.png" crc="4200506865" ref="shop"/>
+    <file name="u1539.png" crc="424627807" ref="shop"/>
+    <file name="u1539-a.png" crc="424627807" ref="shop"/>
+    <file name="u1551.png" crc="4020628477" ref="shop"/>
+    <file name="u1551-a.png" crc="4020628477" ref="shop"/>
+  </folder>
+  <file name="index.html" crc="401547348" seo="true" mt="1517178529698" redirect="true"/>
+  <file name="shop.html" crc="3959684660" seo="true" mt="1517178529698" redirect="true"/>
+  <file name="about-us.html" crc="4145955630" seo="true" mt="1517178529698" redirect="true"/>
+  <file name="products-coming.html" crc="3814728590" seo="true" mt="1517178529698" redirect="true"/>
+  <file name="contact-us.html" crc="106291852" seo="true" mt="1517178529698" redirect="true"/>
+  <file name="soap-faqs.html" crc="4007644868" seo="true" mt="1517178529698" redirect="true"/>
+  <file name="custom.html" crc="371865086" seo="true" mt="1517178529698" redirect="true"/>
+</manifest>
